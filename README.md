@@ -2,5 +2,4 @@
 # 端口映射帮助.
 
 ##注册和启动视频
-<video width="320" height="240" controls>  <source src="movie.mp4" type="video/mp4">
-  </video>
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
